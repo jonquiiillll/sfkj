@@ -6,6 +6,9 @@ a {
 * {
   box-sizing: border-box;
 }
+body {
+   background: linear-gradient(to top,#D8BFD8, #D8BFD8);
+}
       .cec1 {
         width: 100%;
   text-align: center;
