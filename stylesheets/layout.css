@@ -22,27 +22,169 @@ a {
         font-size: 28px;
         line-height: 41px;
         text-align: center;
+        margin-bottom: 205px;
+      }
+      .conteiner {
+        width: 100%;
+      }
+      .photo1 {
+        margin-top: -5px;
+      border: 6px solid #FFFFFF;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2) inset;
+        height: 605px;
+        width: 33%;
+        float: left;
+        background: #FCFCFC;
+      }
+      .textik {
+        padding-top: 30px;
+        width: 80%;
+        margin: 0px auto;
+        font-size: 70px;
+        text-decoration: underline;
+      }
+      .textik2 {
+        padding-top: 30px;
+        width: 80%;
+        margin: 0px auto;
+        font-size: 17px;
+        line-height: 20px;
+      }
+      .photo2 {
+        width: 33%;
+        float: left;
+      }
+      .photo21 {
+        height: 250px;
+        object-fit: cover;
+        width: 100%;
+        background: #66CDAA;
+      }
+      .photo22{
+        height: 350px;
+        width: 100%;
+        background: #AFEEEE;
+        object-fit: cover;
+        box-shadow: 4px black;
+      }
+      .photo3 {
+        width: 34%;
+        float: left;
+      }
+      .textik3 {
+        padding-top: 60px;
+        font-size: 20px;
+        width: 80%;
+        margin: 0px auto;
+
+      }
+      .photo31 {
+        height: 350px;
+        width: 100%;
+        background:#B0C4DE;
+        object-fit: cover;
+      }
+      .photo32 {
+        height: 250px;
+        width: 100%;
+        border: 6px solid #FFFFFF;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2) inset;
+        background: #FCFCFC;
+
+      }
+      .c2onteiner {
+        width: 100%;
+      }
+      .p2hoto1 {
+        height: 200px;
+        width: 33%;
+        float: left;
+
+      }
+      .t2extik {
+        padding-top: 30px;
+        width: 80%;
+        margin: 0px auto;
+        font-size: 70px;
+        text-decoration: underline;
+      }
+      .t2extik2 {
+        padding-top: 30px;
+        width: 80%;
+        margin: 0px auto;
+        font-size: 17px;
+        line-height: 20px;
+      }
+      .p2hoto2 {
+        width: 33%;
+        float: left;
+      }
+      .p2hoto21 {
+        height: 250px;
+        object-fit: cover;
+        width: 100%;
+        background: #66CDAA;
+      }
+      .p2hoto22{
+        height: 350px;
+        width: 100%;
+        background: #AFEEEE;
+        object-fit: cover;
+        box-shadow: 4px black;
+      }
+      .p2hoto3 {
+        width: 34%;
+        float: left;
+        border: 6px solid #FFFFFF;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2) inset;
+        background: #FCFCFC;
+        margin-top: -5px;
+        height: 605px;
+      }
+      .t2extik3 {
+        padding-top: 60px;
+        font-size: 20px;
+        width: 80%;
+        margin: 0px auto;
+      }
+      .p2hoto31 {
+        height: 350px;
+        width: 100%;
+        background:#B0C4DE;
+        object-fit: cover;
+      }
+      .p2hoto32 {
+        height: 250px;
+        width: 100%;
+        border: 6px solid #FFFFFF;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2) inset;
+        background: #FCFCFC;
       }
 @media (max-width:1200px)
 {
   .cec1 {
     font-size: 70px;
   }
-.cec2 {
-  max-width: 970px;
-}
 }
 @media (max-width:992px)
 {
-  .cec1 {
+.cec1 {
     font-size: 90px;
-  }
+      }
 .cec2 {
-  max-width: 750px;
+  width: 50%;
+  font-size: 18px;
+  line-height: normal;
+  margin-bottom: 255px;
+}
+.textik2 {
+  line-height: 16px;
 }
 }
-@media all (max-width:376px) {
-  .cec1 {
-    font-size: 100px;
+@media (max-width:376px) {
+  .cec2 {
+    font-size: 23px;
+    width: 80%;
+    margin-bottom: 277px;
   }
 }
